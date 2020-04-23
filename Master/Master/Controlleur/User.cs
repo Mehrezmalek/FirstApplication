@@ -4,8 +4,7 @@ using System.Text;
 
 namespace Master.Controlleur
 {
-    class Class1
+    class User
     {
-        public int MyProperty { get; set; }
     }
 }
